@@ -1,6 +1,6 @@
 # Nettside for prediksjon av huspris
 
-Her lager vi en enkel nettside for å predikere huspris. Se [https://blasern.github.io/data-science-forelesningsnotater/implementation.html](forelesningsnotater) for mer forklaring. 
+Her lager vi en enkel nettside for å predikere huspris. Se [https://blasern.github.io/data-science-forelesningsnotater/implementation.html](https://blasern.github.io/data-science-forelesningsnotater/implementation.html) for mer forklaring. 
 
 Først må vi analysere data, tilpasse, velge ut og evaluere en modell. For å gjøre det har vi filen [`modeling.py`](modeling.py). Til slutt lagrer vi den beste modellen i filen `model.pkl`. 
 
